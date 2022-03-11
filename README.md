@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @francis-k05
+- 👀 I’m interested in software engineering, artificial intelligence and cloud computing.
+- 🌱 I’m currently learning computer science and engineering.
+- 💞️ I’m looking to collaborate on building strong artificial intelligence and cloud software engineering.
+- 📫 How to reach me ... elshazzah05@gmail.com
